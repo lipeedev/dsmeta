@@ -8,13 +8,11 @@ export function App() {
 
       <main>
         <section className="mt-10 mx-11">
-          <div className="w-full max-w-[900px] mt-0 mr-auto">
+          <div className="w-full mt-0 mr-auto">
             <SalesCard />
           </div>
         </section>
       </main>
-
-
     </>
   );
 
