@@ -5,8 +5,15 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ['Roboto', 'sans-serif']
-      }
+      },
     },
+
+    screens: {
+      'md': '576px',
+      'lg': '992px'
+    }
   },
+
+
   plugins: [],
 }
